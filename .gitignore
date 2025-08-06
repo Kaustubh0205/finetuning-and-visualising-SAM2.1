@@ -1,4 +1,7 @@
-test.txt
+*.txt
 *.yaml
 *.pt
 *.png
+*.jpg
+*.json
+*.coco
