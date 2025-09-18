@@ -1,7 +1,4 @@
 *.txt
-*.yaml
-*.pt
 *.png
-*.jpg
 *.json
 *.coco
